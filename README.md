@@ -2,7 +2,6 @@
 
 All my Codes for learning 
 
----
 ## Day 1
 ---
 Finished Regression and classification course by Andrew NG from coursera.
